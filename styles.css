@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+}
+.container{
+    width:100%;
+    height:100%;
+    background: #42455a;
+}
+.Menu ul{
+    display: inline-flex;
+    margin: 50px;
+}
+Margin ul li{
+    list-style: none;
+    margin: 0 20px;
+    color:#b2b1b1;
+    cursor: pointer;
+}
+.logo img{
+    width:18px;
+    margin-top: -7px;
+    margin-right: 48px;
+}
+
+
